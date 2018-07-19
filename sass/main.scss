@@ -1,0 +1,7 @@
+@import './base/_base.scss';
+
+.container {
+    @include float;
+    position: relative;
+    padding: 20px;
+}
