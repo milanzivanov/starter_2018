@@ -1,4 +1,4 @@
-# Task for fSD company 
+# Starter 2018
 
 ### Install
 
@@ -8,4 +8,4 @@
 
 ### Link preview
 
-[fSDtask](http://fsdtask.surge.sh/)
+[link]()
