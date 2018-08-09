@@ -1,7 +1,7 @@
 {
-  "name": "fsd-task",
+  "name": "starter_2018",
   "version": "1.0.0",
-  "description": "task for fsd company",
+  "description": "starter_file_scss",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
